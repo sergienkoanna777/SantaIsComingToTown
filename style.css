@@ -1,0 +1,139 @@
+body {
+    background-image: url("santa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    
+    background-position: center;
+    background-color: red;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 60px;
+    background-color: rgba(251, 248, 249, 0.9);
+    padding: 20px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(4, 102, 12);
+}
+
+
+.container {
+    display: flex; 
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.christmas {
+    background-color: rgba(251, 248, 249, 0.82);
+    height: 300px;
+    width: 200px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 10%;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: rgb(4, 102, 12); 
+}
+
+.days, .hours, .minutes, .seconds {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px; 
+    color: rgb(4, 102, 12);
+}
+
+
+
+button {
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 70px;
+    border: none;
+    border-radius: 10%;
+    background-color: rgb(3, 129, 14);
+}
+
+
+canvas {
+    display: block;
+    vertical-align: bottom;
+}
+
+
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+@media all and (max-width: 912px) {
+    h1 {
+    font-size: 35px;
+     }
+    
+    
+     .heading{
+         margin-left: 10px;
+     }
+     .christmas {
+        height: 200px;
+        width: 120px;
+        
+    }
+    h3 {
+        font-size: 20px;
+    }
+    .days, .hours, .minutes, .seconds {
+    font-size: 30px; 
+    }
+    }
+    
+    button {
+        margin-top: 30px;
+        margin-left: 20px;
+        margin-right: 10px;
+    }
+    
+
+@media all and (max-width: 800px) {
+h1 {
+font-size: 25px;
+ }
+
+
+ .heading{
+     margin-left: 10px;
+ }
+ .christmas {
+    height: 150px;
+    width: 100px;
+    
+}
+h3 {
+    font-size: 15px;
+}
+.days, .hours, .minutes, .seconds {
+font-size: 25px; 
+}
+}
+
+button {
+    margin-top: 45px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
