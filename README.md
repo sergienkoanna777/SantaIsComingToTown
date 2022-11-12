@@ -9,7 +9,7 @@
 
 Christmas countdown timer. 
   <p>
-    <a href="https://santaiscomingtotown.glitch.me">View Demo Here</a>
+    <a href="https://santaiscomingtotown.glitch.me/">View Demo Here</a>
   </p>
 
 
