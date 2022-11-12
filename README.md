@@ -7,7 +7,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Christmas countdown timer. 
+Christmas countdown timer with music that can be started, stopped and resumed. 
   <p>
     <a href="https://santaiscomingtotown.glitch.me/">View Demo Here</a>
   </p>
