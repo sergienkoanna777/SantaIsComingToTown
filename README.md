@@ -2,7 +2,7 @@
   <h1>Santa is coming to town</h1>
 </div>
 
-<img src="./.jpg" alt="Image" width="auto">
+<img src="./SantaIsComing.jpg" alt="Image" width="auto">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
