@@ -19,4 +19,4 @@ Christmas countdown timer with music that can be started, stopped and resumed.
 [HTML5](https://www.w3schools.com/html/) / [CSS3](https://www.w3schools.com/css/)/ [JavaScript](https://www.w3schools.com/js/)
 
 
-Project Link: 
+Project Link: https://github.com/sergienkoanna777/SantaIsComingToTown
